@@ -1,0 +1,1 @@
+(fn [sq] (= (seq sq) (reverse sq)))
